@@ -1,0 +1,9 @@
+.homepage{
+    display: flex;
+    justify-content: space-around;
+}
+.homapage-offer{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+}
