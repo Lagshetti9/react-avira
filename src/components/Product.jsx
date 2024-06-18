@@ -8,7 +8,8 @@ const Product = () => {
       </div> */}
       <div>
         <section>
-          <div><link rel="stylesheet" href="" /> <img src="src\assets\images\4.jpg" alt="" /></div>
+          <div><link rel="stylesheet" href="" /> <img src="src\assets\images\4.jpg" alt="" />
+          <h1>page</h1></div>
        
         </section>
       </div>
